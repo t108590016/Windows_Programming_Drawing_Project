@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lynn4\\OneDrive\\Desktop\\HW\\110_1\\視窗程式設計\\HW8\\108590016\\Tutorial4_4\\DrawingApp\\DrawingApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lynn4\\OneDrive\\Desktop\\HW\\110_1\\視窗程式設計\\HW8\\108590016\\Tutorial4_4\\DrawingApp\\DrawingApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lynn4\\OneDrive\\Desktop\\HW\\110_1\\視窗程式設計\\HW8\\108590016\\Tutorial4_4\\DrawingApp\\DrawingApp.csproj",
+        "projectName": "DrawingApp",
+        "projectPath": "C:\\Users\\lynn4\\OneDrive\\Desktop\\HW\\110_1\\視窗程式設計\\HW8\\108590016\\Tutorial4_4\\DrawingApp\\DrawingApp.csproj",
+        "packagesPath": "C:\\Users\\lynn4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lynn4\\OneDrive\\Desktop\\HW\\110_1\\視窗程式設計\\HW8\\108590016\\Tutorial4_4\\DrawingApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lynn4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Nuget.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Google.Apis.Drive.v2": {
+              "target": "Package",
+              "version": "[1.55.0.2530, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.13, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

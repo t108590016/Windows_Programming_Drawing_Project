@@ -1,0 +1,132 @@
+TestWindow package loaded
+Informational: 記錄層級已設定為 資訊性 (預設)。
+Informational: 記錄層級已設定為 資訊性 (預設)。
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:98
+TableControl: About to update entries 2021/11/25 下午 07:41:15:99
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:102
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:111
+TableControl: Updating entries 2021/11/25 下午 07:41:15:116
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:126
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:131
+TableControl: Updating entries (UI thread) 2021/11/25 下午 07:41:15:381
+TableControl: Refreshing UI 2021/11/25 下午 07:41:15:382
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:385
+TableControl: About to update entries 2021/11/25 下午 07:41:15:386
+TableControl: Updating entries 2021/11/25 下午 07:41:15:404
+TableControl: Updating entries (UI thread) 2021/11/25 下午 07:41:15:411
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:412
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:414
+TableControl: Refreshing UI 2021/11/25 下午 07:41:15:417
+TableControl: QueueUpdate 2021/11/25 下午 07:41:15:418
+TableControl: About to update entries 2021/11/25 下午 07:41:15:419
+TableControl: Updating entries 2021/11/25 下午 07:41:15:420
+TableControl: Updating entries (UI thread) 2021/11/25 下午 07:41:15:421
+Informational: 已在 0.545 秒內從解決方案快取載入 0 筆測試記錄。
+Informational: 測試資料存放區在 0.039 秒內開啟。
+TableControl: QueueUpdate 2021/11/25 下午 07:41:27:554
+TableControl: About to update entries 2021/11/25 下午 07:41:27:555
+TableControl: Updating entries 2021/11/25 下午 07:41:27:556
+TableControl: Updating entries (UI thread) 2021/11/25 下午 07:41:27:556
+TableControl: Refreshing UI 2021/11/25 下午 07:41:27:557
+Informational: ========== 開始測試探索 ==========
+Warning: C:\Users\lynn4\OneDrive\Desktop\HW\110_1\視窗程式設計\新增資料夾\Tutorial4_4\Tutorial4_4\bin\Debug\Tutorial4_4.dll 中未提供任何測試。請確定已登錄了測試探索程式與執行程式，且平台與 Framework 版本設定皆正確，然後再試一次。
+Informational: ========== 測試探索已完成: 在 1.5 秒 找到 0 項測試 ==========
+Informational: ========== 開始測試探索 ==========
+Warning: C:\Users\lynn4\OneDrive\Desktop\HW\110_1\視窗程式設計\新增資料夾\Tutorial4_4\Tutorial4_4\bin\Debug\Tutorial4_4.dll 中未提供任何測試。請確定已登錄了測試探索程式與執行程式，且平台與 Framework 版本設定皆正確，然後再試一次。
+Informational: ========== 測試探索已完成: 在 1 秒 找到 0 項測試 ==========
+TestWindow package loaded
+Informational: 記錄層級已設定為 資訊性 (預設)。
+Informational: 記錄層級已設定為 資訊性 (預設)。
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:410
+TableControl: About to update entries 2021/12/7 下午 02:53:17:411
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:416
+TableControl: Updating entries 2021/12/7 下午 02:53:17:424
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:428
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:436
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:444
+TableControl: Updating entries (UI thread) 2021/12/7 下午 02:53:17:650
+TableControl: Refreshing UI 2021/12/7 下午 02:53:17:651
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:653
+TableControl: About to update entries 2021/12/7 下午 02:53:17:654
+TableControl: Updating entries 2021/12/7 下午 02:53:17:683
+TableControl: Updating entries (UI thread) 2021/12/7 下午 02:53:17:712
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:713
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:720
+TableControl: Refreshing UI 2021/12/7 下午 02:53:17:723
+TableControl: QueueUpdate 2021/12/7 下午 02:53:17:725
+TableControl: About to update entries 2021/12/7 下午 02:53:17:726
+TableControl: Updating entries 2021/12/7 下午 02:53:17:727
+TableControl: Updating entries (UI thread) 2021/12/7 下午 02:53:17:984
+Informational: 測試資料存放區在 0.048 秒內開啟。
+TableControl: QueueUpdate 2021/12/7 下午 02:53:21:3
+TableControl: About to update entries 2021/12/7 下午 02:53:21:4
+TableControl: Updating entries 2021/12/7 下午 02:53:21:4
+TableControl: Updating entries (UI thread) 2021/12/7 下午 02:53:21:6
+TableControl: Refreshing UI 2021/12/7 下午 02:53:21:6
+Informational: ========== 開始測試探索 ==========
+Warning: C:\Users\lynn4\OneDrive\Desktop\HW\110_1\視窗程式設計\HW6\108590016\Tutorial4_4\DrawingForm\bin\Debug\DrawingForm.exe 中未提供任何測試。請確定已登錄了測試探索程式與執行程式，且平台與 Framework 版本設定皆正確，然後再試一次。
+Informational: ========== 測試探索已完成: 在 2.4 秒 找到 0 項測試 ==========
+given range is not current
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:613
+TableControl: About to update entries 2022/1/11 下午 02:09:49:614
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:618
+TableControl: Updating entries 2022/1/11 下午 02:09:49:626
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:629
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:637
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:645
+Warning: 開啟測試資料時發生錯誤: 資料結構描述版本為 27，應為 28。
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:09:49:875
+TableControl: Refreshing UI 2022/1/11 下午 02:09:49:876
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:877
+TableControl: About to update entries 2022/1/11 下午 02:09:49:877
+TableControl: Updating entries 2022/1/11 下午 02:09:49:898
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:09:49:951
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:952
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:992
+TableControl: Refreshing UI 2022/1/11 下午 02:09:49:995
+TableControl: QueueUpdate 2022/1/11 下午 02:09:49:996
+TableControl: About to update entries 2022/1/11 下午 02:09:49:997
+TableControl: Updating entries 2022/1/11 下午 02:09:49:999
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:09:50:1
+Informational: 已在 0.411 秒內從解決方案快取載入 0 筆測試記錄。
+Informational: 測試資料已於開啟時清除。
+Informational: 測試資料存放區在 0.018 秒內開啟。
+TableControl: QueueUpdate 2022/1/11 下午 02:09:53:543
+TableControl: About to update entries 2022/1/11 下午 02:09:53:544
+TableControl: Updating entries 2022/1/11 下午 02:09:53:545
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:09:53:546
+TableControl: Refreshing UI 2022/1/11 下午 02:09:53:547
+Informational: ========== 開始測試探索 ==========
+TableControl: QueueUpdate 2022/1/11 下午 02:09:55:923
+Warning: 找到相同延伸模組的多個版本。系統會選取最高版本。
+  Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter : 14.0.4701.2
+TableControl: About to update entries 2022/1/11 下午 02:09:56:25
+TableControl: Updating entries 2022/1/11 下午 02:09:56:26
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:09:56:28
+TableControl: Refreshing UI 2022/1/11 下午 02:09:56:28
+Warning: C:\Users\lynn4\OneDrive\Desktop\HW\110_1\視窗程式設計\HW8\108590016\Tutorial4_4\DrawingForm\bin\Debug\DrawingForm.exe 中未提供任何測試。請確定已登錄了測試探索程式與執行程式，且平台與 Framework 版本設定皆正確，然後再試一次。
+Informational: ========== 測試探索已完成: 在 2.9 秒 找到 0 項測試 ==========
+Warning: 建置失敗或其已取消。
+Warning: 建置失敗或其已取消。
+Warning: 建置失敗或其已取消。
+Informational: 開始為要求的測試回合執行測試探索
+Informational: ========== 開始測試探索 ==========
+Warning: 找到相同延伸模組的多個版本。系統會選取最高版本。
+  Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter : 14.0.4701.2
+Warning: 找到相同延伸模組的多個版本。系統會選取最高版本。
+  Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter : 14.0.4701.2
+TableControl: QueueUpdate 2022/1/11 下午 02:12:09:124
+TableControl: About to update entries 2022/1/11 下午 02:12:09:226
+TableControl: Updating entries 2022/1/11 下午 02:12:09:226
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:12:09:228
+TableControl: Refreshing UI 2022/1/11 下午 02:12:09:228
+Warning: C:\Users\lynn4\OneDrive\Desktop\HW\110_1\視窗程式設計\HW8\108590016\Tutorial4_4\DrawingForm\bin\Debug\DrawingForm.exe 中未提供任何測試。請確定已登錄了測試探索程式與執行程式，且平台與 Framework 版本設定皆正確，然後再試一次。
+Warning: 找到相同延伸模組的多個版本。系統會選取最高版本。
+  Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter : 14.0.4701.2
+Informational: ========== 測試探索已完成: 在 7.2 秒 找到 67 項測試 ==========
+Informational: 找不到任何測試可執行。
+TableControl: QueueUpdate 2022/1/11 下午 02:12:12:882
+TableControl: About to update entries 2022/1/11 下午 02:12:12:993
+TableControl: Updating entries 2022/1/11 下午 02:12:12:995
+TableControl: Updating entries (UI thread) 2022/1/11 下午 02:12:12:997
+TableControl: Refreshing UI 2022/1/11 下午 02:12:12:998

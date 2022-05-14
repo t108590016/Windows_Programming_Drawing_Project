@@ -1,0 +1,67 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="-375929365">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="1285415859">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <project key="-1841534218">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="CommandManagerTests.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/01/13 21:57:40.958</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2021/12/27 14:15:29.750</sourceFile>
+      <parser>2022/01/13 21:57:40.958</parser>
+      <KellyPalRules.KellyPalAnalyzer>2022/01/13 21:57:40.958</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="DrawCommandTests.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/01/13 21:57:40.958</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2021/12/26 19:44:12.000</sourceFile>
+      <parser>2022/01/13 21:57:40.958</parser>
+      <KellyPalRules.KellyPalAnalyzer>2022/01/13 21:57:40.958</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="TestCommand.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/01/13 21:57:40.958</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2021/12/26 19:44:32.000</sourceFile>
+      <parser>2022/01/13 21:57:40.958</parser>
+      <KellyPalRules.KellyPalAnalyzer>2022/01/13 21:57:40.958</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="PresentationModelTests.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/01/13 21:57:40.958</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2021/12/13 14:58:08.000</sourceFile>
+      <parser>2022/01/13 21:57:40.958</parser>
+      <KellyPalRules.KellyPalAnalyzer>2022/01/13 21:57:40.958</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2022/01/13 21:57:40.958</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2021/12/12 20:07:48.000</sourceFile>
+      <parser>2022/01/13 21:57:40.958</parser>
+      <KellyPalRules.KellyPalAnalyzer>2022/01/13 21:57:40.958</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>

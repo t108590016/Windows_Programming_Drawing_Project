@@ -1,0 +1,36 @@
+﻿<Page
+ x:Class="DrawingApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ xmlns:local="using:DrawingApp"
+ xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        
+        <Button x:Name="_undo" Content="Undo" VerticalAlignment="Top" Width="72" Height="29" IsEnabled="{x:Bind Path = _model.IsUndoEnabled, Mode=OneWay}"/>
+        <Button x:Name="_redo" Content="Redo" VerticalAlignment="Top" Width="72" Height="29" Margin="77,0,0,0" IsEnabled="{x:Bind Path = _model.IsRedoEnabled, Mode=OneWay}"/>
+        <Grid Margin="0,50,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="_rectangle" Content="Rectangle" 
+Height="44" Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Center" IsEnabled="{x:Bind Path = _presentationModel.IsRectangle, Mode=OneWay}"/>            <Button x:Name="_line" Content="Line" 
+Height="44" Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" IsEnabled="{x:Bind Path = _presentationModel.IsLine, Mode=OneWay}"/>            <Button x:Name="_ellipse" Content="Ellipse" 
+Height="44" Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Center" IsEnabled="{x:Bind Path = _presentationModel.IsEllipse, Mode=OneWay}" RenderTransformOrigin="17.22,0.636"/>
+            <Button x:Name="_clear" Content="Clear"  HorizontalAlignment="Center" 
+Height="44" Grid.Column="3" VerticalAlignment="Top" IsEnabled="{x:Bind Path = _presentationModel.IsClear, Mode=OneWay}"/>
+            <Button x:Name="_save" Content="Save" 
+Height="44" Grid.Column="4" VerticalAlignment="Top" HorizontalAlignment="Center" RenderTransformOrigin="17.22,0.636"/>
+            <Button x:Name="_load" Content="Load"  HorizontalAlignment="Center" 
+Height="44" Grid.Column="5" VerticalAlignment="Top"/>
+        </Grid>
+        <Canvas x:Name="_canvas" Margin="99,138,99,99" Background="#FFFFFFA0"/>
+        <TextBlock x:Name="_selectedDetail" HorizontalAlignment="Right" Margin="0,0,500,100" Text="{x:Bind Path = _model.SelectedDetail, Mode=OneWay}" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
+    </Grid>
+</Page>
